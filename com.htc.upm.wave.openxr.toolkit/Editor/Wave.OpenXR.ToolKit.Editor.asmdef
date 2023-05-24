@@ -1,0 +1,22 @@
+{
+    "name": "Wave.OpenXR.Toolkit.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5dc17f7184050f642ad9f69168e31cef",
+        "GUID:1cc45ecc15bce6842b65833f82aeba25",
+        "GUID:d0a204fb2c62e9f4caca92f1c1e8c06b",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:96aa6ba065960476598f8f643e7252b6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

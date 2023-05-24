@@ -1,0 +1,29 @@
+{
+  "name": "com.htc.upm.wave.openxr.toolkit.samples",
+  "displayName": "VIVE OpenXR ToolKit Samples - Android",
+  "version": "1.0.5",
+  "unity": "2020.3",
+  "description": "Provide the mobile toolkit samples for VIVE devices.",
+  "keywords": [
+    "vr",
+    "xr",
+    "reality"
+  ],
+  "author": {
+    "name": "HTC Corporation",
+    "email": "vivesoftware@htc.com",
+    "url": "https://www.htc.com"
+  },
+  "dependencies": {
+    "com.htc.upm.wave.openxr.toolkit": "1.0.5"
+  },
+  "samples": [
+    {
+      "displayName": "VIVE OpenXR Toolkit Samples",
+      "description": "Basic sample showing how to use VIVE OpenXR Toolkit - Android.",
+      "path": "Samples~/Samples/ToolKit"
+    }
+  ],
+  "type": "library",
+  "hideInEditor": false
+}

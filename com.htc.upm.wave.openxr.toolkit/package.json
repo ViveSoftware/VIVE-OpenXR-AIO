@@ -1,0 +1,25 @@
+{
+  "name": "com.htc.upm.wave.openxr.toolkit",
+  "displayName": "VIVE OpenXR ToolKit - Android",
+  "version": "1.0.5",
+  "unity": "2020.3",
+  "description": "The \"VIVE OpenXR ToolKit - Android\" package is a toolkit built on top of the \"VIVE OpenXR Plugin - Android\" package.\nWhile the \"VIVE OpenXR Plugin - Android\" package provides the basic plugin of OpenXR, the \"VIVE OpenXR ToolKit - Android\" package provides additional APIs, Components, and GUI interfaces that makes your developerment easier.\nCurrent provided tools are shown in the following.\n\n- Hand Tracking APIs\n- Raycast APIs\n- CompositionLayer Components\n\n\nYou can view the documentation for additional information.",
+  "keywords": [
+    "vr",
+    "xr",
+    "reality"
+  ],
+  "author": {
+    "name": "HTC Corporation",
+    "email": "vivesoftware@htc.com",
+    "url": "https://www.htc.com"
+  },
+  "dependencies": {
+    "com.htc.upm.wave.openxr": "1.0.5"
+  },
+  "samples": [],
+  "type": "library",
+  "documentationUrl": "https://developer.vive.com/resources/openxr/openxr-mobile/tutorials/unity/getting-started-openxr-mobile/",
+  "changelogUrl": "https://developer.vive.com/resources/openxr/openxr-mobile/download/latest/",
+  "hideInEditor": false
+}
